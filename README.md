@@ -1,0 +1,3 @@
+- Hi, I’m @silentmodeon
+- I’m currently learning python, webdev with python
+- How to reach me ... 
